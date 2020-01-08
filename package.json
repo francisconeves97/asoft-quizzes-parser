@@ -1,0 +1,15 @@
+{
+  "name": "asoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answers_parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "standard": "^14.3.1"
+  }
+}
